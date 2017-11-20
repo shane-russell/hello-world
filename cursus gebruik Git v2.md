@@ -383,5 +383,5 @@ Chris Wanstrath (defunkt),14 september 2013. [Online]. Available: https://github
 # [code school](https://try.github.io/levels/1/challenges/1)
 Hier kan je Git uitproberen, zonder ook maar iets te installeren op je eigen computer.
 
- 
+![voorbeeld commando](images/commando.png)
 
